@@ -2,7 +2,7 @@
 
 Welcome to the Green Home Score project! This document outlines the architecture, the implementation phases we've completed, and a guide on how everything fits together.
 
-## Overview
+## Overview 1
 
 The Green Home Score is a sophisticated platform that calculates a property's energy efficiency based on 7 strict criteria:
 1. **EPC Rating** (25%)
